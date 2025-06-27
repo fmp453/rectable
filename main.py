@@ -118,7 +118,6 @@ def train():
             )
         )
         loss_history.append({"loss": loss.item(), "iter": i})
-        exit()
 
         if i != 0 and i % config.training_snapshot_freq == 0 or i == num_train_steps - 1:
             save_checkpoint(os.path.join(checkpoint_dir, f'checkpoint_{exp_setting}_{i:06d}.pth'), state)
