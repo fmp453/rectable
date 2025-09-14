@@ -109,4 +109,4 @@ We appreciate your citations if you find this repository useful to your research
 ```
 
 ## Contact
-The email in the paper is availabe until the end of March, 2025 due to author's graduation. Please contact us via Twitter (X). Twitter account can be found [my profile page](https://github.com/fmp453).
+The email in the paper is not availabe due to author's graduation. Please contact us via Twitter (X). The account can be found at [my profile page](https://github.com/fmp453).
